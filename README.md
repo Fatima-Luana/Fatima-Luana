@@ -1,12 +1,13 @@
 
-## Hi there!👋 welcome to my profile! how are you?🥰
+##   Olá!👋  bem-vindo ao meu perfil! como você está?🥰
 
-* My name is Fátima Luana and I am a Information Technology student. 
+* O meu nome é Fátima Luana e sou estudante do curso de Tecnologia da Informação.
 
-* I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+* Sou apaixonado por resolver problemas e aprender. Sempre procuro novos desafios e estou pronta para enfrentar mudanças.
 
-* Web Development Student with an emphasis on Front-End Development, currently focused on HTML, CSS, JavaScript, React JS and NextJS.
+* Estudante de Desenvolvimento Web com ênfase em Desenvolvimento Front-End, atualmente com foco em HTML, CSS, JavaScript, ReactJS e NextJS.
 
-Reach me out 👇🏼
+Me alcancem 👇🏼
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/falu_._/)](https://www.instagram.com/falu_._/)
+
