@@ -1,7 +1,7 @@
 
 ## Hi there!👋 welcome to my profile! how are you?🥰
 
-* My name is Fátima Luana 🇧🇷 and I am a Information Technology student. 
+* My name is Fátima Luana and I am a Information Technology student. 
 
 * I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
