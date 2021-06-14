@@ -1,7 +1,7 @@
 
 ##   Olá!👋  bem-vindo ao meu perfil! como você está?🥰
 
-* O meu nome é Fátima Luana e sou estudante do curso de Tecnologia da Informação.
+* Me chamo Fátima Luana e sou estudante do curso de Tecnologia da Informação.
 
 * Sou apaixonado por resolver problemas e aprender. Sempre procuro novos desafios e estou pronta para enfrentar mudanças.
 
