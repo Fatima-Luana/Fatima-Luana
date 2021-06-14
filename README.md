@@ -1,9 +1,7 @@
 
-#  Hey 👋
+## Hi there!👋 welcome to my profile! how are you?🥰
 
-### Hi there! welcome to my profile! how are you?🥰
-
-* My name is Fátima Luana 🇧🇷 and I am a Information Technology studant. 
+* My name is Fátima Luana 🇧🇷 and I am a Information Technology student. 
 
 * I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
@@ -12,4 +10,3 @@
 Reach me out 👇🏼
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/falu_._/)](https://www.instagram.com/falu_._/)
-
