@@ -5,7 +5,7 @@
 
 * I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-* Web Development Student with an emphasis on Front-End Development, currently focused on HTML, CSS, JavaScript, React JS at NextJS.
+* Web Development Student with an emphasis on Front-End Development, currently focused on HTML, CSS, JavaScript, React JS and NextJS.
 
 Reach me out 👇🏼
 
