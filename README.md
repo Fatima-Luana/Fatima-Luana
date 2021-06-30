@@ -1,9 +1,7 @@
 
+
 ##   Olá!👋  bem-vindo ao meu perfil! como você está?🥰
 
-* Me chamo Fátima Luana e sou estudante do curso de Tecnologia da Informação.
+ O meu nome é Fátima Luana🙋🏻 e sou estudante do curso de Tecnologia da Informação 🎓. Disposta a enfrentar desafios para me tornar uma Desenvolvedora Front-end profissional.
 
-* Sou apaixonada por resolver problemas e aprender. Sempre procuro novos desafios e estou pronta para enfrentar mudanças.
-
-* Estudante de Desenvolvimento Web com ênfase em Desenvolvimento Front-End, atualmente com foco em HTML, CSS, JavaScript, ReactJS e NextJS.
-
+* Estudante de Desenvolvimento Web com ênfase em Desenvolvimento Front-End, atualmente com foco em HTML, CSS, JavaScript, ReactJS e NextJS. 👩🏻‍💻
