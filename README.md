@@ -14,5 +14,7 @@
 </a>
 
 
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatima-Luana&show_icons=true&theme=buefy)
+<br></br>
+ 
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatima-Luana&show_icons=true&theme=algolia)
 
