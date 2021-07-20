@@ -10,5 +10,5 @@
 Me alcancem 👇🏼
 
 <a href="https://www.linkedin.com/in/f%C3%A1tima-luana-a63980215/" target="_black">
-        <img src="linkedin.png" alt="Linkedin de Fátima Luana" width="60" height="60">  
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Linkedin de Fátima Luana" width="60" height="60">  
 </a>
