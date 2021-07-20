@@ -7,8 +7,11 @@
 
 * Estudante de Desenvolvimento Web com ênfase em Desenvolvimento Front-End, atualmente com foco em HTML, CSS, JavaScript, ReactJS e NextJS. 👩🏻‍💻
 
-Me alcancem 👇🏼
+## Me alcancem 👇🏼 
 
 <a href="https://www.linkedin.com/in/f%C3%A1tima-luana-a63980215/" target="_black">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Linkedin de Fátima Luana" width="60" height="60">  
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="Linkedin de Fátima Luana" width="40" height="40">  
 </a>
+
+
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatima&show_icons=true&theme=buefy)
