@@ -9,4 +9,6 @@
 
 Me alcancem 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/f%C3%A1tima-luana-a63980215/)](https://www.linkedin.com/in/f%C3%A1tima-luana-a63980215/)
+<a href="https://www.linkedin.com/in/f%C3%A1tima-luana-a63980215/" target="_black">
+        <img src="linkedin.png" alt="Linkedin de Fátima Luana" width="60" height="60">  
+</a>
