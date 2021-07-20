@@ -7,6 +7,6 @@
 
 * Estudante de Desenvolvimento Web com ênfase em Desenvolvimento Front-End, atualmente com foco em HTML, CSS, JavaScript, ReactJS e NextJS. 👩🏻‍💻
 
-Reach me out 👇🏼
+Me alcancem 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/f%C3%A1tima-luana-a63980215/)](https://www.linkedin.com/in/f%C3%A1tima-luana-a63980215/)
