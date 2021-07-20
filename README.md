@@ -1,6 +1,6 @@
 
 
-##   Olá!👋  bem-vindo ao meu perfil! como você está?🥰
+##   Olá!👋  bem-vindo ao meu perfil! Como você está?🥰
 
  O meu nome é Fátima Luana🙋🏻 e sou estudante do curso de Tecnologia da Informação 🎓. Focando nos estudos para me tornar uma Desenvolvedora Front-end profissional.
  
